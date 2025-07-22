@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Pune, Maharashtra"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "xxxxxxxxxx"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contac@gmail.com"
+  }
+]
